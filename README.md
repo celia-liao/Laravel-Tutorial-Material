@@ -12,7 +12,7 @@
 | 1   | 環境建置 & 建立第一個 Laravel 專案 & 專案結構說明 | [Day1 教材](https://github.com/celia-liao/Laravel-Tutorial-Material/tree/master/Day1)     | [Day1 代碼](https://github.com/celia-liao/Laravel-Tutorial-Code/commit/a7179203e783ed282f28db4cc21f73f7f9d07a60) |
 | 2   | Route與 Blade 模板變數傳遞          | [Day2 教材](https://github.com/celia-liao/Laravel-Tutorial-Material/tree/master/Day2)                      |  [練習1 代碼](https://github.com/celia-liao/Laravel-Tutorial-Code/commit/6c7890568025551a16d431ef268655496b5146b2)<br>[練習2 代碼](https://github.com/celia-liao/Laravel-Tutorial-Code/commit/76a9cd8cce54d56c7bc68f28cfe8265875a74856)                    |
 | 3   | 任務清單練習 + 任務詳情頁                         | [Day3 教材](https://github.com/celia-liao/Laravel-Tutorial-Material/tree/master/Day3)                      |      [練習1 代碼](https://github.com/celia-liao/Laravel-Tutorial-Code/commit/e9e916692201fa609bfef6b5d4e608c2c5e641b5)<br>[練習2 代碼](https://github.com/celia-liao/Laravel-Tutorial-Code/commit/61bbada47b111a9624ac6d6e1f7ebf072e2b8b27)                 |
-| 4   | 使用 Docker 架設 MySQL 開發資料庫                 | （即將發布）                      |                      |
+| 4   | 使用 Docker 架設 MySQL 開發資料庫                 | [Day4 教材](https://github.com/celia-liao/Laravel-Tutorial-Material/tree/master/Day4)                       |        N/A              |
 | 5   | 模型（Model）與遷移（Migration）                  | （即將發布）                      |                      |
 | 6   | 假資料產生（Seeder + Factory）                    | （即將發布）                      |                      |
 | 7   | Eloquent 查詢與路由整合                           | （即將發布）                      |                      |
