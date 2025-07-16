@@ -14,7 +14,7 @@
 | 3   | 任務清單練習 + 任務詳情頁                         | [Day3 教材](https://github.com/celia-liao/Laravel-Tutorial-Material/tree/master/Day3)                      |      [練習1 代碼](https://github.com/celia-liao/Laravel-Tutorial-Code/commit/e9e916692201fa609bfef6b5d4e608c2c5e641b5)<br>[練習2 代碼](https://github.com/celia-liao/Laravel-Tutorial-Code/commit/61bbada47b111a9624ac6d6e1f7ebf072e2b8b27)                 |
 | 4   | 使用 Docker 架設 MySQL 開發資料庫                 | [Day4 教材](https://github.com/celia-liao/Laravel-Tutorial-Material/tree/master/Day4)                       |        N/A              |
 | 5   | 模型（Model）與遷移（Migration）                  |  [Day5 教材](https://github.com/celia-liao/Laravel-Tutorial-Material/tree/master/Day5)                    |      [Day5 代碼](https://github.com/celia-liao/Laravel-Tutorial-Code/commit/e3f2a87c94f8bf43bf94c07b3608a15bcd4a49e3)                |
-| 6   | 假資料產生（Seeder + Factory）                    | （即將發布）                      |                      |
+| 6   | 假資料產生（Seeder + Factory）                    |  [Day6 教材](https://github.com/celia-liao/Laravel-Tutorial-Material/tree/master/Day6)                      |    [Day6 代碼](https://github.com/celia-liao/Laravel-Tutorial-Code/commit/829c2261a1ec6ae5c5cabdb913ac0a0b7a233865)                  |
 | 7   | Eloquent 查詢與路由整合                           | （即將發布）                      |                      |
 | 8   | 表單送出與資料儲存                                | （即將發布）                      |                      |
 | 9   | 表單錯誤處理與 Flash 訊息                         | （即將發布）                      |                      |
