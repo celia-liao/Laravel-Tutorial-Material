@@ -15,7 +15,7 @@
 | 4   | 使用 Docker 架設 MySQL 開發資料庫                 | [Day4 教材](https://github.com/celia-liao/Laravel-Tutorial-Material/tree/master/Day4)                       |        N/A              |
 | 5   | 模型（Model）與遷移（Migration）                  |  [Day5 教材](https://github.com/celia-liao/Laravel-Tutorial-Material/tree/master/Day5)                    |      [Day5 代碼](https://github.com/celia-liao/Laravel-Tutorial-Code/commit/e3f2a87c94f8bf43bf94c07b3608a15bcd4a49e3)                |
 | 6   | 假資料產生（Seeder + Factory）                    |  [Day6 教材](https://github.com/celia-liao/Laravel-Tutorial-Material/tree/master/Day6)                      |    [Day6 代碼](https://github.com/celia-liao/Laravel-Tutorial-Code/commit/829c2261a1ec6ae5c5cabdb913ac0a0b7a233865)                  |
-| 7   | Eloquent 查詢與路由整合                           | （即將發布）                      |                      |
+| 7   | Eloquent 查詢與路由整合                           |  [Day7 教材](https://github.com/celia-liao/Laravel-Tutorial-Material/tree/master/Day7)                      |  N/A                    |
 | 8   | 表單送出與資料儲存                                | （即將發布）                      |                      |
 | 9   | 表單錯誤處理與 Flash 訊息                         | （即將發布）                      |                      |
 | 10  | 資料更新（Edit / Update）                         | （即將發布）                      |                      |
