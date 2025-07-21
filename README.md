@@ -17,7 +17,7 @@
 | 6   | 假資料產生（Seeder + Factory）                    |  [Day6 教材](https://github.com/celia-liao/Laravel-Tutorial-Material/tree/master/Day6)                      |    [Day6 代碼](https://github.com/celia-liao/Laravel-Tutorial-Code/commit/829c2261a1ec6ae5c5cabdb913ac0a0b7a233865)                  |
 | 7   | Eloquent 查詢與路由整合                           |  [Day7 教材](https://github.com/celia-liao/Laravel-Tutorial-Material/tree/master/Day7)                      |  N/A                    |
 | 8   | 表單送出與資料儲存                                |   [Day8 教材](https://github.com/celia-liao/Laravel-Tutorial-Material/tree/master/Day8)                      |   [Day8 代碼](https://github.com/celia-liao/Laravel-Tutorial-Code/commit/c33fd62e63c9ef4296b7c713d4b14bbb9c2892e6)                   |
-| 9   | 表單錯誤處理與 Flash 訊息                         | （即將發布）                      |                      |
+| 9   | 表單錯誤處理與 Flash 訊息                         | [Day9 教材](https://github.com/celia-liao/Laravel-Tutorial-Material/tree/master/Day9)                      | [Day9 代碼](https://github.com/celia-liao/Laravel-Tutorial-Code/commit/5e71f8e4d2f3c00806d5d022c1e9fac6b364335d)                      |
 | 10  | 資料更新（Edit / Update）                         | （即將發布）                      |                      |
 | 11  | Route Model Binding                              | （即將發布）                      |                      |
 | 12  | 共用表單元件（Create/Edit）+ 刪除任務             | （即將發布）                      |                      |
