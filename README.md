@@ -19,7 +19,7 @@
 | 8   | 表單送出與資料儲存                                |   [Day8 教材](https://github.com/celia-liao/Laravel-Tutorial-Material/tree/master/Day8)                      | [Day8 代碼](https://github.com/celia-liao/Laravel-Tutorial-Code/commit/c33fd62e63c9ef4296b7c713d4b14bbb9c2892e6)                   |
 | 9   | 表單錯誤處理與 Flash 訊息                         | [Day9 教材](https://github.com/celia-liao/Laravel-Tutorial-Material/tree/master/Day9)                      | [Day9 代碼](https://github.com/celia-liao/Laravel-Tutorial-Code/commit/5e71f8e4d2f3c00806d5d022c1e9fac6b364335d)                      |
 | 10  | 資料更新（Edit / Update）                         | [Day10 教材](https://github.com/celia-liao/Laravel-Tutorial-Material/tree/master/Day10)                     | [Day10 代碼](https://github.com/celia-liao/Laravel-Tutorial-Code/commit/8bbcd923285cfe9238824b079a0b55f020e9b375)                    |
-| 11  | Route Model Binding                              | （即將發布）                      |                      |
+| 11  | Route Model Binding                             | [Day11 教材](https://github.com/celia-liao/Laravel-Tutorial-Material/tree/master/Day11)                     | [Day10 代碼](https://github.com/celia-liao/Laravel-Tutorial-Code/commit/8bbcd923285cfe9238824b079a0b55f020e9b375)                   |
 | 12  | 共用表單元件（Create/Edit）+ 刪除任務             | （即將發布）                      |                      |
 | 13  | Laravel 專案中整合 Vite                           | （即將發布）                      |                      |
 
