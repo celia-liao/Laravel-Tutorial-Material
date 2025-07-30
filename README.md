@@ -21,7 +21,7 @@
 | 10  | 資料更新（Edit / Update）                         | [Day10 教材](https://github.com/celia-liao/Laravel-Tutorial-Material/tree/master/Day10)                     | [Day10 代碼](https://github.com/celia-liao/Laravel-Tutorial-Code/commit/8bbcd923285cfe9238824b079a0b55f020e9b375)                    |
 | 11  | Route Model Binding                             | [Day11 教材](https://github.com/celia-liao/Laravel-Tutorial-Material/tree/master/Day11)                     | [Day11 代碼](https://github.com/celia-liao/Laravel-Tutorial-Code/commit/8bbcd923285cfe9238824b079a0b55f020e9b375)                   |
 | 12  | 共用表單元件（Create/Edit）+ 刪除任務             | [Day12 教材](https://github.com/celia-liao/Laravel-Tutorial-Material/tree/master/Day12)                    | [Day12 代碼](https://github.com/celia-liao/Laravel-Tutorial-Code/commit/5c6f833523b9d36fe6a4e724257c8d0fa811aa3b)                     |
-| 13  | Laravel 專案中整合 Vite                           | （即將發布）                      |                      |
+| 13  | Laravel 專案中整合 Vite                         | [Day13 教材](https://github.com/celia-liao/Laravel-Tutorial-Material/tree/master/Day13)                      |                      |
 
 ---
 
